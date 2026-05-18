@@ -232,7 +232,7 @@ Use VS Code → Print to PDF
 
 ## 👤 Author
 
-**Md Javeed Khan**
+**Mohd Ishaq**
 📧 [contactishaq21@gmail.com ]
 📱 +91 7075171071
 
