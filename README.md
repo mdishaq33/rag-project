@@ -233,9 +233,8 @@ Use VS Code → Print to PDF
 ## 👤 Author
 
 **Md Javeed Khan**
-📧 [mdjaveedkhanofficial@gmail.com](mailto:mdjaveedkhanofficial@gmail.com)
-📱 +91 8143747313
-🌐 Portfolio: mdjaveedkhan.me
+📧 [contactishaq21@gmail.com ]
+📱 +91 7075171071
 
 ---
 
